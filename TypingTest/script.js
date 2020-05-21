@@ -11,7 +11,7 @@ const textArray = ['Lorem Ipsum is simply dummy text of the printing and typeset
 'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.',
 'There are many variations of passages of Lorem Ipsum available.',
 'Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.',
-'Simplest text there is.'];
+'Simplest text there should be.'];
 
 var timer = [0,0,0,0];
 var interval;
