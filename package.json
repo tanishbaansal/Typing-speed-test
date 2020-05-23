@@ -1,0 +1,19 @@
+{
+  "name": "typingtest",
+  "version": "1.0.0",
+  "description": "A simple typing test to find score and accuracy",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishbaansal/Typing-speed-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanishbaansal/Typing-speed-test/issues"
+  },
+  "homepage": "https://github.com/tanishbaansal/Typing-speed-test#readme"
+}
